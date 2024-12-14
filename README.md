@@ -1,5 +1,7 @@
 # DS-301-project-Age-Detection-from-faces-Images
 
+By Daniel Dai, Bonnie Wang, Helen Liu
+
 # 1. Motivation
 
 We aim to answer the question: Can we accurately classify human faces into specific age groups – namely "YOUNG," "MIDDLE," and "OLD" – using deep learning models? Age recognition has practical applications in various fields, such as demographic analysis, targeted marketing, security systems, and even healthcare, where age-related assessments can assist in early diagnosis of age-associated diseases.
