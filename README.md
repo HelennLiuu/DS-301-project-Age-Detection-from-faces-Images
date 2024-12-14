@@ -8,5 +8,7 @@ Age classification presents an exciting challenge due to the complexity of facia
 # 2. Dataset
 The dataset consists of 19,906 facial images in various resolutions (ranging from 8x11 to over 724x500 pixels), paired with a CSV file, "train.csv," which contains two columns: "ID" (the image filenames) and "Class" (the corresponding age group: "YOUNG," "MIDDLE," or "OLD"). This dataset is suitable for our deep learning model’s task of age classification because it provides a diverse range of face images that represent different age groups. The variety in resolution and file size may present challenges in data preprocessing, but deep learning models are well-suited to handle such variability.
 
+(./dataset_distribution_plot.png)
+
 
 
