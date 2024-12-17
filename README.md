@@ -56,7 +56,7 @@ a learning rate of 0.0001. The last 10 layers were unfrozen for fine-tuning, and
 learning rate of 1e-5 was applied for stability. Metrics were plotted to compare the efficacy
 of the fine-tuning phase.
 
-## Multi-Task Learning and Attention Mechanisms
+## Attention Mechanisms
 
 Data Preprocessing: Images were resized to 160x160 pixels, normalized to [0, 1], and
 labels were one-hot encoded. The dataset was split into training and validation sets.
